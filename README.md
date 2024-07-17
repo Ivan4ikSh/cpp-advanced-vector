@@ -1,6 +1,6 @@
 # Custom Vector Implementation in C++
 ## Description
-This project provides a custom implementation of a vector container in C++, akin to 'std::vector'. This vector class manages dynamic arrays, supporting efficient random access, insertion, and deletion operations. It includes a custom memory management class 'RawMemory' to handle raw memory allocation and deallocation, ensuring exception safety and optimal performance.
+This project provides a custom implementation of a vector container in C++, akin to `std::vector`. This vector class manages dynamic arrays, supporting efficient random access, insertion, and deletion operations. It includes a custom memory management class `RawMemory` to handle raw memory allocation and deallocation, ensuring exception safety and optimal performance.
 
 # Instructions for Deployment/Usage
 To use this vector implementation in your C++ project, follow these steps:
