@@ -18,7 +18,7 @@ Ensure your compiler supports C++17 and above. Compile your project using your p
 
 # System Requirements
 - C++ Version: C++17 or above.
-- Dependencies: Standard Template Library (STL) headers such as '<cassert>', '<cstdlib>', '<new>', '<utility>', '<memory>', and '<algorithm>'.
+- Dependencies: Standard Template Library (STL) headers such as <cassert>, <cstdlib>, <new>, <utility>, <memory>, and <algorithm>.
 
 # Example Test Case Breakdown
 Here's an example test case demonstrating basic usage and exception safety for the vector:
