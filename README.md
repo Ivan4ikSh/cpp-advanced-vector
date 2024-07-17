@@ -97,13 +97,17 @@ int main() {
 # System Requirements
 - Compiler: GCC 7.0 or later, Clang 5.0 or later, MSVC 2017 or later.
 - Dependencies: C++ Standard Library
+
+## Technology Stack
+- Language: C++17
+- Compiler: GCC (or any C++17 compatible compiler)
+- Build Tools: None required (simple g++ command used for compilation)
+  
+## License
+This project is licensed under the MIT License.
+
 # Future Plans
 - Implement additional member functions for Vector, such as shrink_to_fit and clear.
 - Add support for custom allocators.
 - Optimize current methods for better performance with large data sets.
 - Provide a more comprehensive test suite.
-# Technology Stack
-- Language: C++
-- C++ Standard: C++17
-- Libraries: Standard Template Library (STL)
-
